@@ -1,6 +1,6 @@
 <!-- @format -->
 
-# DSA
+# Data Structure & Algorithm
 
 - DS Algo -> Algorithm complexity -> Big Oh -> Time complexity
 
