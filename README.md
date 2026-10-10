@@ -36,8 +36,14 @@ Disadvantage
 - Fixed size , memory wastage
 - Homogeneous [lack of flexibility]
 
-Referential array
+Referential Array
 
 - used as a Array of pointers and use as a reference
 - Python list is referential array. (can store hetrogeneous), slow (speed)
 - store elements as (code by value)
+
+Dynamic Array
+
+Size adjustable
+
+Take the initial array and then create a bigger array and add new value to that new array and then repeat the same for every new values, everytime it creates new array that holds previous values along with current value (New value)
