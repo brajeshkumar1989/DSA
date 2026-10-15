@@ -2,6 +2,10 @@
 
 # **Data Structure & Algorithm**
 
+These Notes I have created while watching YouTube video by #CampusX .
+
+`https://youtu.be/f9Aje_cN_CY?si=hAs95ewWjt7ZPxPX`
+
 - DS Algo -> Algorithm complexity -> Big Oh -> Time complexity
 
 - What are Data Structure and its need?
